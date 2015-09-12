@@ -3,3 +3,4 @@ test git branch
 check the function of branch
 quick and simple.
 
+git is better than svn.
